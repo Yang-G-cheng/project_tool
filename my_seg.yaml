@@ -1,0 +1,7 @@
+# 存為 my_seg.yaml
+path: "D:\\程式碼\\回家後\\yolov7\\yolo_self\\my_seg_dataset"
+train: images/train
+val: images/val
+
+nc: 3
+names: ['class0', 'class1', 'class2']
